@@ -1,10 +1,10 @@
-# <center>Milestone2 Team Report</center>
+# <center>Milestone2 Individual Report</center>
 
-## <center>Junfeng Li   Haolin Huang   Peilin Wu    Weixian Zhou    Chenlang Yi</center>
+## <center>12012622 Li Junfeng</center>
 
 
 
-## Requirements Modeling & Degin
+## __Requirements Modeling & Design__
 
 ### 1. Use Case Diagram(UCD)
 
@@ -107,6 +107,21 @@ Our team desgined one class diagram to describe the components, relations, and s
 ![学校老师.png](https://github.com/A-anonym/CS304/blob/main/6.UI%20Design/%E5%AD%A6%E6%A0%A1%E8%80%81%E5%B8%88.png?raw=true)
 <center><p>Figure 11: Administrator</p></center>
 
-## Collaborations
+## __Collaborations__
 （milestone2中，由于小组创建人联系不到，其他成员没有权限查看commit记录。）
-## Deliverables
+## __Deliverables__
+###  Login Page
+1. **The login page has been implemented**  
+Students can access the website with their student numbers.In addition, the administrator and the proprieter can also log in.
+![login_page.png](https://github.com/A-anonym/CS304/blob/main/milestone2/7.Deliverables/login_page.png?raw=true)
+<center><p>Figure 12: Login Page</p></center>
+
+2. **The Proprieter page has been implemented**  
+After login, the identity will be automatically identified. When the identity is president, it will enter the following page. The president can manage the members of the club, make announcements, and apply for funds or activities. (These operations are not accessible and cannot be viewed by students.)
+![Pro_page.jpg](https://github.com/A-anonym/CS304/blob/main/milestone2/7.Deliverables/Pro_page.jpg?raw=true)
+<center><p>Figure 13: Proprieter Page</p></center>
+
+3. **The Administrator page has been implemented**  
+After login, it will automatically recognize the identity. When the identity is the administrator, it will enter the following page. The administrator can manage all societies and approve fund or activity applications. These operations must have administrator permissions. Meanwhile, the administrator will not join societies, so there are no such options in the column.
+![Admi_page.jpg](https://github.com/A-anonym/CS304/blob/main/milestone2/7.Deliverables/Admi_page.jpg?raw=true)
+<center><p>Figure 14: Administrator Page</p></center>
