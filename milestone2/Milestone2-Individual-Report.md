@@ -88,9 +88,25 @@ Our team desgined one class diagram to describe the components, relations, and s
 <center><p>Figure 5:Class Diagram</p></center>
 
 ### 5. Data Design
-### 6. UI Design
-![登录页.png](https://github.com/sustech-cs304/team-project-1146/blob/main/milestone2/6.UI%20Design/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+![sql.png](https://github.com/A-anonym/CS304/blob/main/5.Data%20Design/sql.png?raw=true)
+<center><p>Figure 6: DataBase</p></center>
 
-<center><p>Figure 4: Swimlane Diagram</p></center>
+### 6. UI Design
+![登录页.png](https://github.com/A-anonym/CS304/blob/main/6.UI%20Design/%E7%99%BB%E5%BD%95%E9%A1%B5.png?raw=true)
+<center><p>Figure 7: Login</p></center>
+
+![首页.png](https://github.com/A-anonym/CS304/blob/main/6.UI%20Design/%E9%A6%96%E9%A1%B5.png?raw=true)
+<center><p>Figure 8: HomePage</p></center>
+
+![普通学生.png](https://github.com/A-anonym/CS304/blob/main/6.UI%20Design/%E6%99%AE%E9%80%9A%E5%AD%A6%E7%94%9F.png?raw=true)
+<center><p>Figure 9: Student</p></center>
+
+![社团管理人.png](https://github.com/A-anonym/CS304/blob/main/6.UI%20Design/%E7%A4%BE%E5%9B%A2%E7%AE%A1%E7%90%86%E4%BA%BA.png?raw=true)
+<center><p>Figure 10: Proprieter</p></center>
+
+![学校老师.png](https://github.com/A-anonym/CS304/blob/main/6.UI%20Design/%E5%AD%A6%E6%A0%A1%E8%80%81%E5%B8%88.png?raw=true)
+<center><p>Figure 11: Administrator</p></center>
+
 ## Collaborations
+（milestone2中，由于小组创建人联系不到，其他成员没有权限查看commit记录。）
 ## Deliverables
